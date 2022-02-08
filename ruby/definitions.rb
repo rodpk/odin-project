@@ -1,7 +1,5 @@
 puts "hello world";
 
-irb(main):004:0
-
 # convert to float
 13.to_f
 # convert a float to an integer
